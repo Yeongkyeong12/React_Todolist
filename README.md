@@ -1,2 +1,2 @@
-## React_Practice
-* React를 활용한 Todolist 만들기
+## ✔️React_Practice
+* React.js를 활용한 Todolist 만들기
